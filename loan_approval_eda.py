@@ -1,7 +1,4 @@
-# ============================================================
-# PROBLEM 10 - LOAN APPROVAL
-# EDA + FEATURE ENGINEERING
-# ============================================================
+
 
 import pandas as pd
 import numpy as np
